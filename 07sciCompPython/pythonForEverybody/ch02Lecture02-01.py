@@ -53,3 +53,5 @@ type(f)
 #python can be instructed to collect data from the user via the input() function; the program will pause and request the info via a prompt to the user
 #nam = input ("What is your name? Answer: ")
 #print ("Hello, ", nam)
+
+#comments are put into python using the # symbol; everything after the pound sign is ignored

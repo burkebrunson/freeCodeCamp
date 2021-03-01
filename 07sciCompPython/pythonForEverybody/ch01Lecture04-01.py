@@ -1,9 +1,11 @@
 #code to count words in a txt file
 
+#get the name of the file and open it
 #sequential
 name = input ("Enter a file: ") #prompt user for file name
 handle = open (name, 'r') #open the file provided by user, read it, and put information into variable handle
 
+#count word frequency (create histogram)
 counts = dict() #creates a dictionary data structure to store word count
 #repeated
 for line in handle: #for loop to iterate through each word counted in variable handle
@@ -11,6 +13,7 @@ for line in handle: #for loop to iterate through each word counted in variable h
     for word in words: #for loop to iterate through each new word placed in variable words
         counts[word] = counts.get(word, 0) + 1 #counts the words and stores the count value in dictionary
 
+#find the most common word
 #sequential
 bigCount = None #xreates variable
 bigWord = None #creates variable
@@ -22,6 +25,7 @@ for word, count in counts.items(): #for loop to iterate through each entry in th
         bigWord = word #sets variable bigWord equal to value of variable word
         bigCount = count ##sets variable bigCount equal to value of variable count
 
+#print the most common word and number of times it appears
 #sequential
 print ("The word repeated the most in the document was: ", (bigWord)) #print bigWord variable info
 print ("It was repeated ", (bigCount), " times") #print bigCount variable info
