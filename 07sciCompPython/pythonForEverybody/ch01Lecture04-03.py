@@ -19,7 +19,7 @@ print ("The valus of the variable a is: ", (a)) #step 2
 if a < 10:
     print ("The variable a is smaller than 10") #step 3
 
-if a > 10: 
+if a > 10:
     print ("The variable a is bigger than 10") #step 4
 
 
@@ -37,3 +37,4 @@ while n > 0:
     n = n - 1 #step 5
 
 print ("Blastoff!") #step 6
+
