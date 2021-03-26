@@ -15,4 +15,5 @@ def hello(n):
 name = input ("Please enter your name: ")
 
 #print the user's name
-hello(name)
+hello (name)
+print ("End of program")
