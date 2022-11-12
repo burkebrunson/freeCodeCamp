@@ -1,7 +1,11 @@
-# freeCodeCamp
+Repository ![visitors](https://visitor-badge.glitch.me/badge?page_id=burkebrunson.freeCodeCamp)
 
----
+# [Daniel Burke Brunson](https://www.freecodecamp.org/burkebrunson)
 
-> *Files produced while working through the various lectures and exercises of [freeCodeCamp](https://www.freecodecamp.org/)*
+Files produced while working through content of freeCodeCamp.
 
-> *[My profile](https://www.freecodecamp.org/fcc45d9b61b-a49d-4537-b8a4-986736eaa065)*
+[![Open this repository in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/burkebrunson/freeCodeCamp)
+
+This work is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+Hosted on <a href="https://github.com/burkebrunson/freeCodeCamp" target="_blank" rel="noopener">GitHub</a>.
