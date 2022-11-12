@@ -1,6 +1,6 @@
 Repository ![visitors](https://visitor-badge.glitch.me/badge?page_id=burkebrunson.freeCodeCamp)
 
-# [Profile Page | Daniel Burke Brunson](https://www.freecodecamp.org/burkebrunson)
+# [freeCodeCamp Profile Page | Daniel Burke Brunson](https://www.freecodecamp.org/burkebrunson)
 
 Files produced while working through content of freeCodeCamp.
 
